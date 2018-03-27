@@ -1,0 +1,8 @@
+{
+  "name": "Try-Ionic-Sampahku",
+  "app_id": "de017bcd",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
